@@ -2,7 +2,7 @@
 
 ## The files in this repository are included in order to show the examples of complexity of coding I am able to achieve.
 
-## Additional files that make everything work can be added upon request.
+## Additional files that make the code run/work can be added upon request.
 
 # The tasks from the coursework can be found in the "Coursework description" file.
 
