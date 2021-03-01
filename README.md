@@ -1,4 +1,4 @@
-## The files in this repository are included in order to show the examples of complexity of coding I am able to achieve.
+## The files in this repository are included in order to show the examples of complexity of coding/problem-solving I am able to achieve.
 
 ## Additional files that make the code run/work can be added upon request.
 
