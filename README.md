@@ -1,10 +1,6 @@
-## The files in this repository are included in order to show the examples of complexity of coding/problem-solving I am able to achieve.
+## This coursework is an example of complexity of coding/problem-solving I am able to achieve. The instructions can be found in the "Coursework description" file.
 
-## Additional files that make the code run/work can be added upon request.
-
-## The tasks from the coursework can be found in the "Coursework description" file.
-
-## The results (answers) that the .py files in this repository yield are the following:
+## After running the codes in the cloud on AWS, the following lists have been returned:
 
 - pairs.py: "my" ->	["wife", "girlfriend", "friend", "dad", "women", "life", "mom", "favorite", "coffee", "son"]
 - stripes.py: "my" ->	["wife", "girlfriend", "friend", "dad", "women", "life", "mom", "favorite", "coffee", "son"]
@@ -12,4 +8,4 @@
 
 and were confirmed to be correct.
 
-## None of the codes has been changed since submitting, therefore there is definitely room for improvement, especially in terms of making the code more readable for others.
+## None of the codes has been changed since submitting, therefore there is room for improvement, for example in terms of the code readability
