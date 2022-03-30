@@ -2,9 +2,9 @@
 
 ## Additional files that make the code run/work can be added upon request.
 
-# The tasks from the coursework can be found in the "Coursework description" file.
+## The tasks from the coursework can be found in the "Coursework description" file.
 
-# The results (answers) that the .py files in this repository yield are the following:
+## The results (answers) that the .py files in this repository yield are the following:
 
 - pairs.py: "my" ->	["wife", "girlfriend", "friend", "dad", "women", "life", "mom", "favorite", "coffee", "son"]
 - stripes.py: "my" ->	["wife", "girlfriend", "friend", "dad", "women", "life", "mom", "favorite", "coffee", "son"]
@@ -12,4 +12,4 @@
 
 and were confirmed to be correct.
 
-# None of the codes has been changed since submitting, therefore there is definitely room for improvement, especially in terms of making the code more readable for others.
+## None of the codes has been changed since submitting, therefore there is definitely room for improvement, especially in terms of making the code more readable for others.
